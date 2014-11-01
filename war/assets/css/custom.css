@@ -1,0 +1,230 @@
+/* Add here all your css styles (customizations) */
+h1, h2, h3, h4 {
+	font-weight: bold;
+}
+
+#ContentArea {
+	padding-bottom: 74px;
+	overflow: hidden;
+	/* margin-top:-150px; */
+}
+
+/* #ContentArea.sub {
+	padding-bottom: 150px;
+} */
+/* #ContentArea section {
+	padding-top: 100px;
+} */
+.top {
+	padding-top: 100px;
+}
+
+.sub {
+	/* padding-top: 150px;
+	margin-bottom: -100px; */
+	padding-top: 100px;
+}
+
+.last {
+	margin-bottom: -50px;
+}
+
+.bottom {
+	margin-bottom: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+.col-2 {
+	width: 50%;
+}
+
+.left {
+	float: left;
+	padding-right: 20px;
+}
+
+.right {
+	float: right;
+	padding-left: 20px;
+}
+
+iframe {
+	max-width: 100%;
+}
+
+.navbar-sub {
+	top: 74px;
+}
+
+a {
+	color: #428bca;
+}
+
+.btn-u.btn-brd {
+	border-color: #428bca;
+}
+
+.overflow-hidden {
+	overflow: hidden;
+}
+
+.da-slider {
+	/* width: 100%;
+	height: 427px;
+	background-size:cover;
+	position: relative;
+	margin: 0 auto;
+	overflow: hidden;
+	background: transparent url(../img/sliders/revolution/bg5.jpg) no-repeat 0% 0%;
+	box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -2px 1px #fff;
+	-webkit-transition: background-position 1.4s ease-in-out 0.3s;
+	-moz-transition: background-position 1.4s ease-in-out 0.3s;
+	-o-transition: background-position 1.4s ease-in-out 0.3s;
+	-ms-transition: background-position 1.4s ease-in-out 0.3s;
+	transition: background-position 1.4s ease-in-out 0.3s; */
+	width: 100%;
+	background: url(../img/sliders/revolution/bg5.jpg) no-repeat 0% 0%;
+	background-color: rgba(0, 0, 0, 0);
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+/*Contacts Section
+------------------------------------*/
+/*Contact Section*/
+.contacts-section {
+	color: #fff;
+    position: relative;
+	background: #333 url(../img/sliders/revolution/bg5.jpg) center fixed;
+}
+
+.contacts-section:after {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%; 
+	content: " ";
+	position: absolute;
+	background: rgba(0,0,0,0.7);
+}
+
+.contacts-section:before {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%; 
+	content: " ";
+	position: absolute;
+	background: url(../img/patterns/gridtile.png) repeat;
+}
+
+/*Contacts Title*/
+.contacts-section .title-v1 p,
+.contacts-section .title-v1 h2 {
+	color: #fff;
+}
+
+/*Contacts Content*/
+.contacts-in {
+	z-index: 1;
+	color: #fff;
+	position: relative;
+}
+
+.contacts-in h3 {
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+.contacts-in ul {
+	margin-top: 20px;
+}
+
+.contacts-in li {
+	color: #fff;
+	margin: 15px 0;
+	font-size: 16px;
+	font-weight: 200;
+}
+
+.contacts-in li a {
+	color: #fff;
+}
+
+.contacts-in li i {
+	width: 35px;
+	padding: 8px;
+	font-size: 18px;
+	margin-right: 5px;
+	text-align: center;
+	display: inline-block;
+	background: rgba(255,255,255,0.1);
+}
+
+.contacts-in form label {
+	font-size: 14px; 
+	font-weight: 200;
+}
+
+.contacts-in form .form-control {
+	color: #fff;
+	box-shadow: none;
+	border-color: #eee;
+	background: rgba(0,0,0,0.2);
+}
+
+.contacts-in form .form-control:focus {
+	border-color: #bbb;
+	background: rgba(0,0,0,0.6);
+}
+
+.contacts-in form .btn-u.btn-brd.btn-u-dark {
+	color: #fff;
+	border-color: #fff;
+	background: rgba(0,0,0,0.2);
+}
+
+.contacts-in form .btn-u.btn-brd.btn-u-dark:hover {
+	border-color: #bbb;
+	background: rgba(0,0,0,0.6) !important;
+}
+
+/*Heading Titles*/
+.title-v1 {
+	z-index: 1;
+	position: relative;
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+.title-v1 h1, 
+.title-v1 h2 {
+	color: #444;
+	font-size: 28px;
+	position: relative;
+	margin-bottom: 15px;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.title-v1 h1:after, 
+.title-v1 h2:after {
+	bottom: 0;
+	left: 50%;
+	height: 1px;
+	width: 70px;
+	content: " ";
+	margin-left: -35px;
+	position: absolute;
+	background: #d97601;	
+}
+
+.title-v1 p {
+	font-size: 17px;
+	font-weight: 200;
+}
