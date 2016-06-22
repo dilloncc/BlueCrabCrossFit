@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69623e5e-d0d1-488c-9d77-6ad09c009518" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/aztec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/aztec_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cisco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cisco_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cocacola.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cocacola_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/everyday.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/everyday_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/gamescast.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/gamescast_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/hp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/hp_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/igneus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/igneus_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/motogp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/motogp_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/natural.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/natural_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/shell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/shell_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/spinworkx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/spinworkx_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/vadafone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/vadafone_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/walmart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/walmart_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/austrian-airlines.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/baderbrau.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/bellfield.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/clarks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/co-wheels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/corepreserves.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/cropped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/district-karaoke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/dragnfly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/ea-canada.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/emirates.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/fddw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/finals.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/fred-perry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/general-electric.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/getapp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/getaround.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/grifting-tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/hermes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/hotiron.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/inspiring.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/jaguar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/marianos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/much-more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/national-geographic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/qantas-airways.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/starbucks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/ucweb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/mockup/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/mockup/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/mockup/iphone1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/bluecrabcrossfitbootstrap/D2FA3CE4CF554C39D7D8F22525CE67FA.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/Games2013_Final.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/background_crab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_014.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_016.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_017.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/barbell.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/blue_crab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/blue_crab_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/burden_run.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/clickHere.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/coliseum_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/contentBorder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/crab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/crab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/crab_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/dateHolder.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_crossfit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_crossfit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_header1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_menu_bg_act.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_menu_bg_act1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/joinOGClub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/joinOGClub.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/rogueLogo.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/wrap_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/wrapbgg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/war/new.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/about.html" afterPath="$PROJECT_DIR$/war/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/war/WEB-INF/appengine-web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/bluecrabcrossfitbootstrap/bluecrabcrossfitbootstrap.nocache.js" afterPath="$PROJECT_DIR$/war/bluecrabcrossfitbootstrap/bluecrabcrossfitbootstrap.nocache.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/contact.html" afterPath="$PROJECT_DIR$/war/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/crossfit.html" afterPath="$PROJECT_DIR$/war/crossfit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/assets/css/custom.css" afterPath="$PROJECT_DIR$/war/assets/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/gettingstarted.html" afterPath="$PROJECT_DIR$/war/gettingstarted.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/index.html" afterPath="$PROJECT_DIR$/war/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/schedule.html" afterPath="$PROJECT_DIR$/war/schedule.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/assets/css/style.css" afterPath="$PROJECT_DIR$/war/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/wod.html" afterPath="$PROJECT_DIR$/war/wod.html" />
+    </list>
+    <ignored path="BlueCrabCrossFitBootstrapped.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BlueCrabCrossFitBootstrapped" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app-angular.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gettingstarted.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/gettingstarted.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foundations.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/foundations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/war/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="172" column="24" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coach.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/coach.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coaches.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/coaches.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pricing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/pricing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/war/coaches.html" />
+        <option value="$PROJECT_DIR$/war/gettingstarted.html" />
+        <option value="$PROJECT_DIR$/war/pricing.html" />
+        <option value="$PROJECT_DIR$/war/foundations.html" />
+        <option value="$PROJECT_DIR$/war/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="42" />
+    <option name="width" value="1400" />
+    <option name="height" value="761" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/bemore-angular" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69623e5e-d0d1-488c-9d77-6ad09c009518" name="Default" comment="" />
+      <created>1438990044382</created>
+      <option name="number" value="Default" />
+      <updated>1438990044382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="42" width="1400" height="761" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32658958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coaches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/aaron.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/ben.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coaches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/aaron.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/ben.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coaches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/aaron.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/ben.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coaches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/aaron.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/ben.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coaches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/aaron.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/ben.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/aaron.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/json/ben.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coaches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/gettingstarted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/foundations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/WEB-INF/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/images/crab_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="172" column="24" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<section id="content" class="content-section">
+	<div class="container" ng-controller="coachController">
+		<div id="ContentArea">
+			<section id="coaches" class="row">
+				<h1>COACH {{ coach.firstName }}</h1>
+
+				<div class="container">
+					<div class="row">
+						<div class="col-lg">
+							<a href="/assets/img/profiles/{{ coach.profileImageFull }}" data-gallery>
+								<img class="img-circle"
+								src="assets/img/profiles/{{ coach.profileImageThumb }}"
+								alt="Generic placeholder image"
+								style="width: 140px; height: 140px;">
+							</a> 
+							<a ng-repeat="image in coach.images" href="/assets/img/profiles/{{ image }}" data-gallery>
+							</a>
+							<h2>{{ coach.title }}</h2>
+							<p ng-repeat="line in coach.desc">{{ line }}</p>
+
+							<h4>Current Courses/Accreditation</h4>
+							<p ng-repeat="line in coach.credits">{{ line }}</p>
+
+							<h4>Favorite Thing About CrossFit</h4>
+							<p>{{ coach.favoriteThing }}</p>
+
+							<h4>Favorite Quote:</h4>
+							<p>{{ coach.favoriteQuote }}</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+</section>

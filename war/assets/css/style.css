@@ -287,7 +287,7 @@
 
 .header .navbar-default .navbar-nav > li > a {
 	color: #687074;
-	font-size: 15px;
+	/* font-size: 15px; */
 	font-weight:400;
 	text-transform: uppercase;
 }
@@ -768,7 +768,8 @@
 @media (max-width: 992px) {
 	/*Header*/
 	.header-fixed .header {
-		height: 118px;
+		/* height: 118px; */
+		height: 78px;
 	}
 
 	.header-fixed .header.header-fixed-shrink {
@@ -780,7 +781,7 @@
 	/*Header*/
 	.header-fixed .header,
 	.header-fixed .header.header-fixed-shrink {
-		height: 88px;
+		height: 78px;
 	}
 
 	/*Navbar*/

@@ -5,7 +5,7 @@ h1, h2, h3, h4 {
 
 #ContentArea {
 	padding-bottom: 74px;
-	overflow: hidden;
+	/* overflow: hidden; */
 	/* margin-top:-150px; */
 }
 
@@ -16,7 +16,7 @@ h1, h2, h3, h4 {
 	padding-top: 100px;
 } */
 .top {
-	padding-top: 100px;
+	padding-top: 25px;
 }
 
 .sub {
@@ -65,7 +65,13 @@ a {
 
 .btn-u.btn-brd {
 	border-color: #428bca;
+	color: #428bca;
 }
+
+./* btn-u.btn-brd {
+	border-color: #72c02c;
+	color: #72c02c;
+} */
 
 .overflow-hidden {
 	overflow: hidden;
@@ -100,6 +106,8 @@ a {
 	color: #fff;
     position: relative;
 	background: #333 url(../img/sliders/revolution/bg5.jpg) center fixed;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .contacts-section:after {
@@ -228,3 +236,118 @@ a {
 	font-size: 17px;
 	font-weight: 200;
 }
+
+.top-left {
+	position: fixed;
+	top: 16px;
+	left: 20px;
+	z-index: 1000;
+}
+
+#ContentArea .row {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.header {
+	background: #FFFFFF;
+	position: fixed;
+	width: 100%;
+}
+
+.header .ng-scope {
+	height: 78px;
+}
+
+.header .navbar-default {
+	background: #FFFFFF;
+}
+
+#main {
+	padding-top: 78px;
+}
+
+/* .thumbnail {
+	width: 350px;
+} */
+
+@media (max-width: 999px) {
+	
+	#main {
+		padding-top: 84px;
+	}
+	.topbar {
+		visibility: hidden;
+	}
+}
+
+/* @media (min-width: 1100px) { */
+	
+	.free-trial-button-sm {
+		visibility: hidden;
+	}
+	
+	.free-trial-button-lg {
+		visibility: visible;
+	}
+/* } */
+
+/* @media (max-width: 1100px) {
+	
+	.free-trial-button-sm {
+		visibility: visible;
+	}
+	
+	.free-trial-button-lg {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 999px) {
+	
+	.free-trial-button-sm {
+		visibility: hidden;
+	}
+	
+	.free-trial-button-lg {
+		visibility: visible;
+	}
+} */
+
+iframe
+{
+	border: 0px;
+	overflow: hidden;
+}
+
+@media (min-width: 860px) {
+	.container {
+	width: 840px;
+}
+
+@media (min-width: 992px) {
+	.container {
+	width: 970px;
+}
+
+@media (min-width: 1060px) {
+	.container {
+	width: 1040px;
+}
+
+@media (min-width: 1300px) {
+	.container {
+	width: 100%;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+/* .wrap {
+	position: absolute;
+	left: 0px;
+	width: 100%;
+	top: 0px;
+	height: 100%;
+} */

@@ -1,0 +1,82 @@
+[
+{
+	"firstName" : "JOSH",
+	"profileImageThumb" : "Joshohseditfinal-crop.jpg",
+	"profileImageFull" : "Joshohseditfinal.jpg",
+	"images" : ["joshandbenedit.jpg"],
+	"title" : "Josh Burford, Owner",
+	"desc" : ["Josh is a Maryland native who began his professional career in the fitness industry in 2006 working with elementary to collegiate level athletes. In 2007 he became an NSPA CPT and began developing individualized strength and conditioning programs and boot camps for clients of all fitness levels. In 2011 a friend recommended giving CrossFit a chance. He began training at CrossFit Diesel and was truly introduced to the sport of fitness. After working out at this CrossFit facility for 6 months he began building a garage gym in his parents barn. It wasnt until he came across a video on CrossFit.com (Hope for Kenya) that he realized he could influence not only athletes but the surroundings community in a positive way. He completed his CrossFit CFL1 trainer course in April of 2013. He was welcomed by CrossFit Titan to shadow some amazing coaches to help hone his skills and take his coaching to the next level."],
+	"credits" : ["CrossFit CFL1 Trainer Course", "NutraMetrix NC"],
+	"favoriteThing" : "'Watching people better themselves, and watching the CrossFit community reach outside the walls of the gym to help make a difference.'",
+	"favoriteQuote" : "'Limits, like fear, are often just an illusion.' -Michael Jordan"
+},
+{
+	"firstName" : "BEN",
+	"profileImageThumb" : "BenDBSnatchedit-crop.jpg",
+	"profileImageFull" : "BenDBSnatchedit.jpg",
+	"images" : ["BenCoachingedit.jpg"],
+	"title" : "Ben Dziwulski, Owner",
+	"desc" : ["Ben is a Maryland native who started doing CrossFit his Freshman year at North Carolina State University. After a couple years of trying to do CrossFit on his own, he found his home at Raleigh's premier CrossFit gym, CrossFit Invoke, where he learned under CrossFit Headquarter Trainer, Christmas Abbott. After completing his CFL1 Trainer Course, he became a coach at Invoke. Since then, he has been coaching and competing for a couple years, trying to become a better coach each day. After graduating from college and moving back to Maryland, he was given the opportunity to coach at Titan CrossFit in Timonium, MD, where he learned even more about proper coaching, programming, and gym management from a fantastic group of people.", "Since starting BCCF, he has since moved on to live with his new bride, Shelby, who is in the Navy. Although he might not be in the gym physically, his influence is still felt throughout the culture and environment. Also, he loves to keep everyone in the loop with his weekly motivational BCCF email updates!"],
+	"credits" : ["CrossFit CFL1 Trainer Course", "CrossFit Coach's Prep Course", "CrossFit Judge's Course", "CFW Olympic Lifting Course"],
+	"favoriteThing" : "'I love watching people exceed their own expectations. Whether it is getting their first pullup, muscle up, or being able to walk up the stairs without getting winded. CrossFit enables us to use our bodies the way that God intended them- as perfect machines that he designed.'",
+	"favoriteQuote" : "'He is above all things and in him all things hold together.' Colossians 1:17"
+},
+{
+	"firstName" : "DALLAS",
+	"profileImageThumb" : "dallasmuscleup-crop.jpg",
+	"profileImageFull" : "dallasmuscleupedit.jpg",
+	"images" : ["Dallassoloedit.jpg"],
+	"title" : "Dallas Burford",
+	"desc" : ["Dallas is a native to Maryland that started doing CrossFit in the the summer of 2013. After dabbling around with Crossfit for about a year he decided it was time to get serious with it.Not knowing much of anything, he took the time to learn everything that Josh and Ben could possibly teach him. After months of studying, learning all the ins and outs, he got his level one Certification at Fed Hill CrossFit. Since then Dallas has been one of the head coaches at Blue Crab CrossFit. Pursuing his passion, constantly coaching, training, and studying learning to make himself and to make the coaches around him better everyday."],
+	"credits" : ["CrossFit CFL1 Trainer Course", "Juggernaut Training Seminar w/ Chad Smith and Brandon Lilly"],
+	"favoriteThing" : "'I love getting to come in everyday and share knowledge about CrossFit, helping people reach their goals, and pushing people to step outside of their comfort zone and conquer their fears.'",
+	"favoriteQuote" : "'Yea, Though I walk through the valley of death, I will fear no evil: For thou art with me; Thy rod thy staff  thy comfort me.' Psalm 23:4"
+},
+{
+	"firstName" : "KORTNEY",
+	"profileImageThumb" : "kortjerkedit-crop.jpg",
+	"profileImageFull" : "kortjerkedit.jpg",
+	"images" : ["kortsoloedit.jpg"],
+	"title" : "Kortney Dwyer",
+	"desc" : ["After playing DI lacrosse at Towson University Kortney was looking for a new challenge. She began CrossFit in early 2012 in her hometown of Baltimore, MD.  She received her CFL1 certificate a year later and has been active in the crossfit community ever since. After receiving her USAW L1 certification she turned her focus to Olympic lifting- directing the barbell club at her respective gym.  She has worked with established USAW coaches in the Baltimore area gaining experience coaching and competing as an Olympic lifter. She bring her skill set and knowledge to all clients to help them achieve their goals and continue learning and developing herself as a CrossFit coach and athlete."],
+	"credits" : ["CrossFit CFL1 Trainer Course", "USAW L1", "CrossFit Judges Course"],
+	"favoriteThing" : "'I love crossfit because it is raising the bar- particularly with women. It's changing the way women view their bodies and what 'beautiful' is. (Strong is the new skinny) I love it because members bring their children and they get to see first hand the importance of fitness and it sets an awesome example for the younger generation. I love crossfit because it's becoming all inclusive. It's becoming somewhere you can go and get - not just a workout but nutrition plans, mobility and functional movement testing and in some cases there's even a clinic attached. It's completely altering the face of healthy living and public health.'",
+	"favoriteQuote" : "'It doesn't matter where you've been, it just matters where you are going."
+},
+{
+	"firstName" : "AARON",
+	"profileImageThumb" : "Aaronheadshotedit-crop.jpg",
+	"profileImageFull" : "Aaronheadshotedit.jpg",
+	"images" : ["aaronkbsedit.jpg"],
+	"title" : "Aaron Lepsch",
+	"desc" : ["Aaron was born/raised in Buffalo, NY but spent College and most of his adult life in Columbus, OH.  He moved to Maryland in 2012 to work at NASA as a Sr. Systems Administrator / Technical Director. His love for Health & Fitness is as strong as his passion for Technology. Aaron worked as a personal trainer while in College. When he moved to MD he was fed up with the 'Globo Gym' atmosphere and needed a change. He met Ben & Josh a few weeks prior to Blue Crab CF opening their doors and the rest is history."],
+	"credits" : ["CrossFit CFL1 Trainer Course", "Crossfit Strongman", "Crossfit Judge's Course"],
+	"favoriteThing" : "Meeting new people and seeing how the CrossFit community bonds with the same common goal, Optimal Health.",
+	"favoriteQuote" : "'Tough times don't last, tough people do.'"
+},
+{
+	"firstName" : "BRETT",
+	"profileImageThumb" : "Brettedit-crop.jpg",
+	"profileImageFull" : "Brettedit.jpg",
+	"images" : [],
+	"title" : "Brett Costantino",
+	"desc" : ["Brett started doing CrossFit unofficially in 2010 when he was preparing to go to Officer Candidate School for the Marine Corps. He found that the style of training and mentality of CrossFit helped him succeed and become a Marine Officer in 2011. Since then Brett has used CrossFit programming to train his Marine's for deployment and keep them focused on missions while in remote areas of Africa. Brett has been a part of the Blue Crab CrossFit family since January 2014 and has learned a great deal about the dynamics of coaching from Ben and Josh."],
+	"credits" : ["CrossFit CFL1 Trainer Course", "CrossFit Judge's Course"],
+	"favoriteThing" : "'CrossFit is more than just an exercise program, it is a lifestyle. It teaches you how to move efficiently, fuel your body and push yourself to limits you never thought possible.'",
+	"favoriteQuote" : "'Non sibi sed patriae' ('Not for self, but for country')"
+},
+{
+	"firstName" : "CHRISTINA",
+	"profileImageThumb" : "Christinaedit-crop.jpg",
+	"profileImageFull" : "Christinaedit.jpg",
+	"images" : [],
+	"title" : "Christina Orcino",
+	"desc" : ["Christina is a Maryland native who has known Coach Ben since freshman year science class in high school :). She played soccer her entire life and discovered CrossFit while she was attending East Carolina University (Go Pirates). Starting out as an Olympic weightlifter, she was a member of the ECU Weightlifting team before transitioning into CrossFit. Christina earned her Master's degree in Exercise Physiology from ECU after graduating with her Bachelor's in Exercise Science from Salisbury University. Throughout all of her stints with Olympic lifting, powerlifting, Strongman and CrossFit, she learned the value of mobility work and how it improves her performance and keeps her injury free."],
+	"credits" : ["Master's of Exercise Physiology, ECU", "CrossFit Judge's Course", "Working towards  her CFL1 Trainer's certification"],
+	"favoriteThing" : "'Seeing your body do things you never would've envisioned it doing.'",
+	"favoriteQuote" : "'Your mountain is waiting, so get on your way.' -Dr. Suess"
+}
+]
+
+
+	
