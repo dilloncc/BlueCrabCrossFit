@@ -2,154 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69623e5e-d0d1-488c-9d77-6ad09c009518" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/aztec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/aztec_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cisco.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cisco_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cocacola.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/cocacola_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/everyday.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/everyday_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/gamescast.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/gamescast_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/hp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/hp_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/igneus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/igneus_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/motogp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/motogp_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/natural.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/natural_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/shell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/shell_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/spinworkx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/spinworkx_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/vadafone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/vadafone_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/walmart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients/walmart_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/austrian-airlines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/baderbrau.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/bellfield.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/clarks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/co-wheels.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/corepreserves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/cropped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/district-karaoke.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/dragnfly.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/ea-canada.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/emirates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/fddw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/finals.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/fred-perry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/general-electric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/getapp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/getaround.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/grifting-tree.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/hermes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/hotiron.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/inspiring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/jaguar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/marianos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/much-more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/national-geographic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/qantas-airways.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/starbucks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/clients2/ucweb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/masonry/blog5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/mockup/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/mockup/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/mockup/iphone1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/new/img9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/assets/img/patterns/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/bluecrabcrossfitbootstrap/D2FA3CE4CF554C39D7D8F22525CE67FA.cache.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/Games2013_Final.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/background_crab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_011.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_012.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/banner_image_09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/barbell.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/blue_crab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/blue_crab_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/burden_run.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/clickHere.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/coliseum_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/contentBorder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/crab.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/crab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/crab_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/dateHolder.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_crossfit.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_crossfit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_header1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_menu_bg_act.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/gladiator_menu_bg_act1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/joinOGClub.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/joinOGClub.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/rogueLogo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/wrap_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/images/wrapbgg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/index3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/new.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/about.html" afterPath="$PROJECT_DIR$/war/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/war/WEB-INF/appengine-web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/bluecrabcrossfitbootstrap/bluecrabcrossfitbootstrap.nocache.js" afterPath="$PROJECT_DIR$/war/bluecrabcrossfitbootstrap/bluecrabcrossfitbootstrap.nocache.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/contact.html" afterPath="$PROJECT_DIR$/war/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/crossfit.html" afterPath="$PROJECT_DIR$/war/crossfit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/app-angular.js" afterPath="$PROJECT_DIR$/war/app-angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/assets/css/custom.css" afterPath="$PROJECT_DIR$/war/assets/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/gettingstarted.html" afterPath="$PROJECT_DIR$/war/gettingstarted.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/index.html" afterPath="$PROJECT_DIR$/war/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/schedule.html" afterPath="$PROJECT_DIR$/war/schedule.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/assets/css/style.css" afterPath="$PROJECT_DIR$/war/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/wod.html" afterPath="$PROJECT_DIR$/war/wod.html" />
     </list>
     <ignored path="BlueCrabCrossFitBootstrapped.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/war/app-angular.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -200,11 +55,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="172" column="24" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
+            <state vertical-scroll-proportion="-2.4705882">
+              <caret line="91" column="51" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/war/assets/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5413333">
+              <caret line="243" column="18" selection-start-line="243" selection-start-column="18" selection-end-line="243" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schedule.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/schedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gear.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/gear.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3529413">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -213,8 +98,8 @@
       <file leaf-file-name="coach.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/coach.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
@@ -257,7 +142,10 @@
         <option value="$PROJECT_DIR$/war/gettingstarted.html" />
         <option value="$PROJECT_DIR$/war/pricing.html" />
         <option value="$PROJECT_DIR$/war/foundations.html" />
+        <option value="$PROJECT_DIR$/war/app-angular.js" />
+        <option value="$PROJECT_DIR$/war/gear.html" />
         <option value="$PROJECT_DIR$/war/index.html" />
+        <option value="$PROJECT_DIR$/war/assets/css/custom.css" />
       </list>
     </option>
   </component>
@@ -297,6 +185,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,21 +200,144 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFitBootstrapped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlueCrabCrossFit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/bemore-angular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/war" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/BlueCrabCrossFitBootstrapped/war/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -342,25 +354,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="42" width="1400" height="761" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32637855" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32658958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -379,43 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/coach.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/coaches.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/war/assets/json/kortney.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -687,16 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/coach.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,25 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/war/WEB-INF/appengine-web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -783,10 +726,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/index.html">
+    <entry file="file://$PROJECT_DIR$/war/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="172" column="24" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/coach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/app-angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/gear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3529413">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38133332">
+          <caret line="1093" column="19" selection-start-line="1093" selection-start-column="15" selection-end-line="1093" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4705882">
+          <caret line="91" column="51" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5413333">
+          <caret line="243" column="18" selection-start-line="243" selection-start-column="18" selection-end-line="243" selection-end-column="18" />
           <folding />
         </state>
       </provider>

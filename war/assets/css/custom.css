@@ -239,7 +239,7 @@ a {
 
 .top-left {
 	position: fixed;
-	top: 16px;
+	top: 12px;
 	left: 20px;
 	z-index: 1000;
 }
